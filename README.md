@@ -15,6 +15,7 @@ down to low-level or even hardware layer.
 [![wdai-zombies](./wdai-zombies.png)](https://github.com/szym-mie/wdai-zombies)
 [![ecoclock](./ecoclock.png)](https://github.com/szym-mie/EcoClock)
 [![neo-river-raid](./neo-river-raid-ts.png)](https://github.com/szym-mie/neo-river-raid-ts)
+[![mikro-spa](./mikro-spa.png)](https://github.com/szym-mie/mikro-spa)
 [![simple-vm](./simple-vm.png)](https://github.com/szym-mie/simple-vm)
 [![blob-world](./blob-world.png)](https://github.com/szym-mie/blob-world)
 [![sunstar-nvim](./sunstar-nvim.png)](https://github.com/szym-mie/sunstar-nvim)
