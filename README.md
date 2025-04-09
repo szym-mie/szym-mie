@@ -16,6 +16,7 @@ down to low-level or even hardware layer.
 [![ecoclock](./ecoclock.png)](https://github.com/szym-mie/EcoClock)
 [![neo-river-raid](./neo-river-raid-ts.png)](https://github.com/szym-mie/neo-river-raid-ts)
 [![mikro-spa](./mikro-spa.png)](https://github.com/szym-mie/mikro-spa)
+[![ds-fps](./ds-fps.png)](https://github.com/szym-mie/ds-fps)
 [![simple-vm](./simple-vm.png)](https://github.com/szym-mie/simple-vm)
 [![blob-world](./blob-world.png)](https://github.com/szym-mie/blob-world)
 [![sunstar-nvim](./sunstar-nvim.png)](https://github.com/szym-mie/sunstar-nvim)
