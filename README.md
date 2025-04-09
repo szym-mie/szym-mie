@@ -33,16 +33,22 @@ down to low-level or even hardware layer.
 - try my luck at creating minimal linux distro.
 - continue expanding my previous projects.
 
+## My other interests
+
+- 🍰 cooking, especially pastries
+- 📖 modern history
+- 🚗 cars, and just being petrolhead in general
+
 ## Technologies
 
-- 🐍 Python: `Pyglet`, `PyTorch`, `Sk-learn`, `numpy`
-- 🌐 JavaScript and TypeScript: `Canvas` API, `ThreeJS`
-- ⚛️ Web frameworks: `React`, `React Native` `SolidJS`, used `Svelte`, learning `NextJS`
-- 🖌️ Web styling: `Tailwind CSS`, `Headless UI`, learning `DaisyUI`
-- 🌲 NodeJS: `express`, `fastify`, used `webpack`, switched to `vite`, `Sequlize` and `Prisma` as ORM
-- ☕ Java and Kotlin: `JavaFX`, `Swing`, `Spring`, `Hibernate`, `JNI`, very basic Android and WearOS development, using `Compose` or otherwise
-- ⚙️ C: `AVR` and `STM32` microcontrollers, basic OS programming
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" height="16" /> Python: `Pyglet`, `PyTorch`, `Sk-learn`, `numpy`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" height="16" /> JavaScript and TypeScript: `Canvas` API, `ThreeJS`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16" height="16" /> Web frameworks: `React`, `React Native` `SolidJS`, used `Svelte`, learning `NextJS`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="16" height="16" /> Web styling: `Tailwind CSS`, `Headless UI`, learning `DaisyUI`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="16" height="16" /> NodeJS: `express`, `fastify`, used `webpack`, switched to `vite`, `Sequlize` and `Prisma` as ORM
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16" height="16" /> Java and Kotlin: `JavaFX`, `Swing`, `Spring`, `Hibernate`, `JNI`, very basic Android and WearOS development, using `Compose` or otherwise
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16" height="16" /> C: `AVR` and `STM32` microcontrollers, basic OS programming
 - :goberserk: Verilog: hardware design on FPGAs (digital circuits)
-- 🚚 DB: `MySQL`, `PostgreSQL`, `SQLite`, `MongoDB`
-- 💻 OS: decent knoweldge of `Linux`, basic of `OpenBSD`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="16" height="16" /> DB: `MySQL`, `PostgreSQL`, `SQLite`, `MongoDB`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16" height="16" /> OS: decent knoweldge of `Linux`, basic of `OpenBSD`
 - and a must-know :octocat: `git`
