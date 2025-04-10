@@ -5,6 +5,17 @@ I love to experiment with different technologies and expressing my creativity th
 various, but most importantly, unique projects, spanning from web games and apps, going
 down to low-level or even hardware layer.
 
+## My other interests
+
+- 🍰 cooking, especially pastries
+- 📖 learning about modern history
+- 🚗 cars, and just being petrolhead in general
+
+## Things I would like to do some day
+
+- build d scaleable chat in Elixir or Erlang
+- create a wearable app that displays receipies and shows instructions on your wrist.
+
 ## Highlights
 
 [![flashcards](./flashcards.png)](https://github.com/szym-mie/flashcards)
@@ -23,21 +34,6 @@ down to low-level or even hardware layer.
 [![vga_snake](./vga_snake.png)](https://github.com/szym-mie/vga_snake)
 [![blob-world](./blob-world.png)](https://github.com/szym-mie/blob-world)
 [![sunstar-nvim](./sunstar-nvim.png)](https://github.com/szym-mie/sunstar-nvim)
-
-## Things I would like to do some day
-
-- learn Erlang/Elixir properly to implement a highly scaleable chat, web apps or a game server.
-- finally finish my blog engine that has been in making for quite some time.
-- then create a 3D version of such blog that reacts to user interactions.
-- create a wearable app that displays receipies and cooking instructions on your wrist.
-- try my luck at creating minimal linux distro.
-- continue expanding my previous projects.
-
-## My other interests
-
-- 🍰 cooking, especially pastries
-- 📖 modern history
-- 🚗 cars, and just being petrolhead in general
 
 ## Technologies
 
